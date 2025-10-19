@@ -1,11 +1,11 @@
 <h1 align = "center"> I'm Yogesh Bhosale </h1>
 
-<h2 align = "center"> A passionate Cloud & Data Analyst </h2>
+<h2 align = "center"> A passionate Cloud Engineer </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- 🌱 I’m currently working on **Data Analysis, Cloud Technology**
-- 📫 How to reach me **yogesh@asmedu.org**
+- 🌱 I’m currently working on **AWS and Azure**
+- 📫 How to reach me **bhosaleyogesh1000@gmail.com**
 - 💬 Ask me about **Cloud**
 - 😄 Pronounce : **𝙷𝚎/𝙷𝚒𝚖**
 
