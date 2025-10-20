@@ -12,7 +12,7 @@
 
 <img align="right" width="400px" height="400px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<h3 align="left">Programming Language:</h3>
+<h3 align="left">Configuration Language:</h3>
 <p align="left">
   <a href="https://www.terraform.io/" target="_blank">
     <img alt="Terraform" src="https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=623CE4&logo=Terraform&logoColor=FFFFFF&label=">
