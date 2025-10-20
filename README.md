@@ -6,7 +6,7 @@
 </a>
 
 - 🌱 I’m currently working on **AWS, Azure, Terraform, Kubernetes, Docker, GitHub Actions**
-- 📫 How to reach me: **bhosaleyogesh1000@gmail.com**
+- 📫 How to reach me: **yogesh.286.bhosale@gmail.com**
 - 💬 Ask me about **Cloud**
 - 😄 Pronounce: **𝙷𝚎/𝙷𝚒𝚖**
 
