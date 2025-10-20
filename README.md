@@ -53,6 +53,20 @@
   </a>
 </p>
 
+<h3 align="left">Containerization & Orchestration:</h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img alt="Kubernetes" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=">
+  </a>
+</p>
+
+<p align="left">
+  I use <strong>Docker</strong> to containerize applications and streamline development workflows. With <strong>Kubernetes</strong>, I orchestrate scalable, resilient infrastructure across multi-region clusters. These tools are central to my DevOps practice, enabling efficient CI/CD, fault tolerance, and infrastructure-as-code automation.
+</p>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
